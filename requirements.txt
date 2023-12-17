@@ -3,3 +3,4 @@ Openai == 1.3.6
 docarray
 tiktoken
 pydentic
+joblib
